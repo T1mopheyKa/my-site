@@ -272,7 +272,7 @@ body {
   margin: 4px;
   height: 24px;
   min-height: unset;
-  background-color: #000000;
+  background-color: #8da2ed;
   background-image: url("img/progress-pattern.svg");
 }
 
@@ -320,7 +320,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #0129b6;
+  background-color: #8da2ed;
 }
 
 .page-footer a {
