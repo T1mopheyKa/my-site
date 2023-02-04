@@ -303,7 +303,7 @@ body {
 .button:hover {
   margin-bottom: -10px;
   color: #ffffff;
-  border-color: #c98ded;
+  border-color: #9610e3;
   background-color: #c98ded;
   transition: border-color 150ms, background-color 150ms;
 }
