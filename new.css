@@ -1,0 +1,22 @@
+.page-footer a:active {
+    opacity: 0.6;
+  }
+  
+.footer-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email-footer.svg");
+  }
+
+body {
+    position: relative;
+    margin: 0;
+    min-width: 1408px;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #c93131;
+    background-image: url("img/hero-bg.jpg");
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: calc(50vw + 16px);
+  }
